@@ -94,42 +94,52 @@
 ## Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
-    - Goal 1: 
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - Goal 1: Learn the fundamental of web developemnt in 6 months and be able to code, style and deploy a professional protfolio. This would hopefully be completed by December 2024.
+    - Goal 2: Learn UI/UX principles in 3 months and be able to present a case study for a fictional business in which I have designed user profiles, wireframes and provided rationale behind design decisions. This would hopefully be completed by March 2025, part-time whileworking.
+    - Goal 3: Learn professional graphic design and illustraion using Skillshare in 9 months. By the end of it I hope to produce a brand design with digital assets designed according to a generated brief solving a business' problem to be included in my portfolio. This would hopefully be completed by December 2025, part time while working.
+
+**rationale**
+- Goal 1: In order to become a hirable web designer and developer, I need to acquire the skills that I lack such as programming languages, soft skills beneficial in a professional work environment and understanding of the web + servers. I would not able to be an effective hire if i lacked such skills necessary to get the job done. Therefore, a foundation must be laid to begin the path to being a great web developer and designer.
+- Goal 2: In order for me to successfully convince clients that I can help them achieve their business goals, I need to understand how to divulge and lay out the needs of their customers and how to meet them with practical design. The only way in which I can successfully achieve this confidence in my skills is to dedicate time to learning about UI/UX principles and how to best apply them.  
+- Goal 3: In order to convince the companies that I'll be applying to and future clients that my skillset is irreplaceable (for the time being), I need to understand how to create a powerhouse of a customised brand and web presence that is curated to highlight the personality of a business. The way to achieve this that appeals to my personal skillset and interests is learning graphic design and illustration. An effective and cost efficient way to do this would be to learn through the monthly subscription learning platform skillshare, where creatives from all over the world share their years of knowledge and expertise.
+  
 3. **Long-term Goals** (3-5 years and beyond):
-    
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Aspiration 1: Work to learn, not to earn at an entry-level web development job for 5 years. All while creating helpful content on linkedin to showcase my experrtise and helping other deisgners thrive and helping other young women break into a career in tech. I'm not aspiring to be a content creator, but a leading voice in my field. 
+    - Aspiration 2: Become a high ticket freelance web and brand designer & illustrator after approx. 5 years of work experience. 
+      
+  **Interest and skill alignment**:
+  - Aspiration 1: I have beginner level skills and thus an entry level job is most relaistic. My primary focus is to work to learn because I want to grow and develop my skill set at a high rate of improvement per year. The more skilled I am, the more I am worth and the higher I will be saught after in the job market. As I grow in my proficiencies and become saught after (with the help of having created a booming Linkedin social media presence), I will be able to more easily funnel that attention and expertise to a successful freelancing career.
+- Aspiration 2: I would like to freeance so that I have the time freedom in addition to the geographical freedom to explore my other passions and interests. In addition to this I want to have control over what projects I work on (so I can choose those that bring the most purpose to my life), whom I work with (the caliber and character of client), where I work from (travelling the world on my own schedule) and how I work (having freedom of medium, design direction and systems design).  
 
 ## Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
-    
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Complete CodeSpace Academy courses. With the foundational knowledge laid down i will be able to build upon acquired skills to further my development in my chosen field. 
+    - Enroll in Coder Coder course "Responsive Web design". A course that is designed for beginner wed designers and developers aimed at taking us through a complete design from figma to launch. 
+    - Purchase subscription to Skillshare. An online learning platform through which I'll be able to leevrage the years of experience of other creatives to develop my skills. 
+    - Create a portfolio website. My didgital reputation's home, here I will share everything there is to know about my design style, projects I have worked on and the value that i'll add to any company or business.
+    - Purchase "Self-Authoring suite" created by DR. Jordan B Petersen. A writing suite that encourages deep self reflection and planning fr the future through self acceptance, trauma exploration, and the disecting of our dreams and aspirations. it is highly acclaimed and encourage deep self responsibility. 
+    - Purchase graphic designer Will Paterson's design course "Logo Launch". Will paterson is renowed for his timeless logo designs and has valuable knowledge to impart on anyone who is willing to listen and engage.
+      
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Enroll in Flux Academy's Freelance Web designer course. The coordinator at flux academy have over 20 years experience freelancing as a brand and web deisgner. i have enjoyed many of their free resources and videos , thus I feel confident that I will be in good hands with their guidance as I venture into planning for a freelancing career.
+    - Purchacse graphic designer Abi Connick's course " The client process for freelance designers". Abi Connick's style of graphic design is akin to my own, I love the way she implements design principles and teaches them in digestible ways. I am confident that I will benefit highly from her advice on creating a professional client experience for high ticket clients.
+    - Continuosly create and update my portfolio website with the most recent projects and design case studies. Constantly showcasing my skills, style, though process and projects will help businesses and clients determine whetehr on not I am a good match for them and thus generate much needed business leads. 
+    - Continuosly create content and resources to help other young women and designers break into tech. I need to position myself as an expert in my field, and the most effective way in which to do this is to help real people and share the knowledge that I will be acquiring with them. When one is able to help a bsuiness owner solve a real problem for their business, they will become a super fan and refer their friends & family, creating more business for one. 
 
 ## Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Financial Constraint. I do not come from a wealthy family. Having had to pay for all my schooling with bursaries and scholarships, finances will almost defintely be a hinderance for me. Strategy to overcome: Applying for local governemnt social grants or Working another part-time job to pay for courses or once settled in a junior position I could begin a savings account dedicated to further learning and skills development. 
+    - Time constraint. I have poor time management skills and thus end up feeling overwhelemed by all of the things that I want to achieve. Strategy to overcome: First practice self acceptance and that I am limited in what I can do at once. Split my interests into focus periods of 12 weeks each and make use of productivity planners such as Notion to organise ideas.
+    - State of the current job market locally. The job market locally is highly competitive with many companies caring about degrees and tertiary qualifications. Strategy to overcome: Focus efforts on appllying for remote jobs from companies overseas that would allow me geographical freedom even though time freedom would be sacrificed.
+      
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
-
-## Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+    - Attendning industry networking events.
+    - Taking advantage of Linkedin and asking for mentorship by someone who is already successful in my field.
+    - Leveraging online learning platforms such as skillshare, Adobe Classroom and W3Schools to continuosly pursue skill development. 
 
 
